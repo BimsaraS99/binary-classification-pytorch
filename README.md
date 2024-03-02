@@ -40,7 +40,6 @@ This project demonstrates how to classify a circular dataset using PyTorch. It i
 
 - `main.ipynb`: Jupyter Notebook for training and evaluating the models.
 - `helper_functions.py`: Helper functions for plotting predictions and decision boundaries.
-- `models.py`: Definition of the neural network models.
 - `requirements.txt`: List of required packages.
 
 ---
