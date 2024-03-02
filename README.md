@@ -1,4 +1,4 @@
-# Circle Dataset Classification using PyTorch
+# Circle Dataset Classification using PyTorch - Binary Classification
 
 ## Overview
 This project demonstrates the classification of a circular dataset using PyTorch, a popular deep learning library. The goal is to build and compare two neural network models: a simple linear model and a more complex model with a hidden layer. The models are trained to classify the dataset into two classes: inner and outer circles.
