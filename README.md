@@ -1,3 +1,50 @@
+# Circle Dataset Classification using PyTorch
+
+This project demonstrates how to classify a circular dataset using PyTorch. It includes two models: a simple linear model and a more complex model with a hidden layer. The models are trained using the BCEWithLogitsLoss loss function and the SGD optimizer.
+
+## Getting Started
+
+### Prerequisites
+
+- Python (>=3.6)
+- PyTorch (>=1.9.0)
+- scikit-learn
+- matplotlib
+- Jupyter Notebook
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/circle-dataset-classification.git
+   ```
+
+2. Install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Usage
+
+1. Start Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+2. Open and run the `main.ipynb` notebook to train and evaluate the models.
+
+## Project Structure
+
+- `main.ipynb`: Jupyter Notebook for training and evaluating the models.
+- `helper_functions.py`: Helper functions for plotting predictions and decision boundaries.
+- `models.py`: Definition of the neural network models.
+- `requirements.txt`: List of required packages.
+
+---
+
 # Circle Dataset Classification using PyTorch - Binary Classification
 
 ## Overview
